@@ -1,0 +1,4 @@
+certutil -hashfile file1 MD5
+certutil -hashfile file1 SHA1
+certutil -hashfile file1 SHA256
+exiftool <filename>
