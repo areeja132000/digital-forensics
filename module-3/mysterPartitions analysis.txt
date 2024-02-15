@@ -1,0 +1,20 @@
+2099200 - start of second
+52430868 - start of third 
+
+52430848 - start of empty
+52430868 - end which is full 
+
+length of 1 - 50331648
+
+EPP start - 90,179,584
+BSD partition start - 37750784 * 512 = 19328401408 (cluster 127930368)
+
+BSD start - 2048*512 = 1048576 (cluster 127932416)
+
+total space partition 5 - 37,748,736 sectors
+total space partition 6 - 39,841,792 sectors
+added - 77590529
+sectors diff - 2047 sectors (1048064 bytes)
+total space - 77,592,576 sectors
+
+total space used - 77590529

@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 1234
+Evidence Number: 1
+Unique description: hobby
+Examiner: Areej Ali
+Notes: practice
+
+--------------------------------------------------------------
+
+Information for C:\Users\areej\OneDrive\Desktop\practice:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 979
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 15,730,688
+[Physical Drive Information]
+ Drive Model: General UDisk USB Device
+ Drive Serial Number: 	
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 7681 MB
+ Sector count:    15730688
+[Computed Hashes]
+ MD5 checksum:    b9f28e8ac9788ff547876aabdc264e15
+ SHA1 checksum:   cacd37fd4b5c0ac7039df06f50699fdba0b547f2
+
+Image Information:
+ Acquisition started:   Sat Sep 30 19:38:09 2023
+ Acquisition finished:  Sat Sep 30 19:46:01 2023
+ Segment list:
+  C:\Users\areej\OneDrive\Desktop\practice.E01
+
+Image Verification Results:
+ Verification started:  Sat Sep 30 19:46:01 2023
+ Verification finished: Sat Sep 30 19:46:54 2023
+ MD5 checksum:    b9f28e8ac9788ff547876aabdc264e15 : verified
+ SHA1 checksum:   cacd37fd4b5c0ac7039df06f50699fdba0b547f2 : verified

@@ -1,0 +1,32 @@
+
+Scalpel version 2.0 audit file
+Started at Mon Oct 09 18:28:52 2023
+Command line:
+C:\Users\areej\OneDrive\Documents\GitHub\Scalpel-2.0\scalpel.exe -c scalpel.conf -o output scalpel-custom.dd 
+
+Output directory: C:\Users\areej\Downloads\base-recovery\base-recovery\new_config\output
+Configuration file: C:\Users\areej\Downloads\base-recovery\base-recovery\new_config\scalpel.conf
+
+------ BEGIN COPY OF CONFIG FILE USED ------
+        inv     y       200000000       STARTOFFILE        ENDOFILE
+------ END COPY OF CONFIG FILE USED ------
+
+
+Opening target "C:\Users\areej\Downloads\base-recovery\base-recovery\new_config\scalpel-custom.dd"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000010.inv        49152		NO               49		scalpel-custom.dd
+00000009.inv        47104		NO               48		scalpel-custom.dd
+00000008.inv        45056		NO               48		scalpel-custom.dd
+00000007.inv        43008		NO               48		scalpel-custom.dd
+00000006.inv        40960		NO               48		scalpel-custom.dd
+00000005.inv        38912		NO               48		scalpel-custom.dd
+00000004.inv        36864		NO               48		scalpel-custom.dd
+00000003.inv        34816		NO               48		scalpel-custom.dd
+00000002.inv        32768		NO               48		scalpel-custom.dd
+00000001.inv        30720		NO               48		scalpel-custom.dd
+00000000.inv        28863		NO               51		scalpel-custom.dd
+
+
+Completed at Mon Oct 09 18:28:52 2023
